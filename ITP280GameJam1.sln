@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C2065A48-957A-F596-F08B-624881396157}") = "ITP280GameJam1", "Assembly-CSharp.csproj", "{B9CF41C2-C917-2FEB-6267-4815724E66D6}"
+EndProject
+Project("{C2065A48-957A-F596-F08B-624881396157}") = "ITP280GameJam1", "Assembly-CSharp-Editor.csproj", "{3EE68AEF-A739-DA4B-5201-7C5D4FB05700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9CF41C2-C917-2FEB-6267-4815724E66D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9CF41C2-C917-2FEB-6267-4815724E66D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9CF41C2-C917-2FEB-6267-4815724E66D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9CF41C2-C917-2FEB-6267-4815724E66D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EE68AEF-A739-DA4B-5201-7C5D4FB05700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE68AEF-A739-DA4B-5201-7C5D4FB05700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE68AEF-A739-DA4B-5201-7C5D4FB05700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE68AEF-A739-DA4B-5201-7C5D4FB05700}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
